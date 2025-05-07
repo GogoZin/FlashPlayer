@@ -1,7 +1,7 @@
 # FlashPlayer
 Simple Flash browser code with python and use QtWebEngine for flash webview
 
-![image](https://cdn.discordapp.com/attachments/1013744832797229118/1297826237070446602/image.png?ex=6717565f&is=671604df&hm=dd1e25ce1df1c6642886214bc7349b0313765c82652bd84c01cbe7ced4c48188&)
+![image](https://cdn.discordapp.com/attachments/1013744832797229118/1297826237070446602/image.png?ex=681bb69f&is=681a651f&hm=fbf2a1239095b72772b38def76d26275658359968326debb7a8352aedf829b3e&)
 
 This code isn't like other Flash browsers that have Flash built in. Instead, I used an offline Flash plugin, version 29, and called it through QtWebEngine to enable Flash browsing.
 
